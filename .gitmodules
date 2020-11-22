@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/esgolos/esgolos.github.io.git
 	branch = master
+[submodule "publib"]
+	path = publib
+	url = https://github.com/esgolos/esgolos.github.io.git
+	branch = master
