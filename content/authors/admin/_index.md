@@ -6,32 +6,29 @@ title: Elizaveta Golos
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student of RUDN University
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: RUDN University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include next generation networks, queueing theory, LTE.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Queuing theory
+- 4G and 5G wireless
+- LTE service quality analysis
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Translator (English)
+    institution: RUDN University
+    year: 2020
+  - course: BSc in Applied Mathematics and Computer Science
+    institution: RUDN University
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
