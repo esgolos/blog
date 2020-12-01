@@ -18,7 +18,7 @@ bio: My research interests include next generation networks, queueing theory, LT
 
 interests:
 - Queuing theory
-- 5G wireless
+- 4G and 5G wireless
 - LTE service quality analysis
 
 education:
