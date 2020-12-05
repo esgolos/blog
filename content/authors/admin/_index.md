@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "1032202186@pfur.ru".
+  link: "mailto:1032202186@pfur.ru"
 - icon: telegram
   icon_pack: fab
   link: https://telegram.me/goloso4ek
