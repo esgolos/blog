@@ -17,8 +17,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: "Особая роль волонтеров в жизни общества получила высокую оценку со стороны ООН. В 1985 году Ассамблея ООН инициировала утверждение нового международного праздника – Дня волонтера. Россия начала праздновать этот день в 2018 году."
+  caption: "Особая роль волонтеров в жизни общества получила высокую оценку со стороны ООН. В 1985 году Ассамблея ООН инициировала утверждение нового международного праздника – Дня волонтера. Россия начала праздновать этот день в 2018 году."
+  focal_point: ""
   preview_only: false
 
 # Projects (optional).
