@@ -18,7 +18,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Особая роль волонтеров в жизни общества получила высокую оценку со стороны ООН. В 1985 году Ассамблея ООН инициировала утверждение нового международного праздника – Дня волонтера. Россия начала праздновать этот день в 2018 году."
   preview_only: false
 
 # Projects (optional).
