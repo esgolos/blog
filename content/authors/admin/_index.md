@@ -11,7 +11,7 @@ role: Student of RUDN University
 # Organizations/Affiliations
 organizations:
 - name: RUDN University
-  url: ""
+  url: "http://www.rudn.ru/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include next generation networks, queueing theory, LTE.
@@ -37,16 +37,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: '/#contact'  # For a direct email link, use "1032202186@pfur.ru".
+- icon: telegram
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://telegram.me/goloso4ek
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=LSTT4rIAAAAJ&hl=ru
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/esgolos
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
