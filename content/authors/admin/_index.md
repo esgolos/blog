@@ -38,6 +38,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:1032202186@pfur.ru"
+- icon: vk
+  icon_pack: fab
+  link: https://vk.com/lizagolos
 - icon: telegram
   icon_pack: fab
   link: https://telegram.me/goloso4ek
